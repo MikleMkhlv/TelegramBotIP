@@ -1,4 +1,4 @@
-<h1>Тестовое задание</h1>
+<h1>Телеграмм бот для просмотра описания IP адреса</h1>
 <p></p>Для работы с бд - https://gorm.io/docs/
 <p></p>Для работы с тг - https://github.com/go-telegram-bot-api/telegram-bot-api
 <p>Логирование - https://github.com/sirupsen/logrus</p>
