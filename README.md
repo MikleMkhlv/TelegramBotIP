@@ -38,5 +38,33 @@
 <p>Port: 5432</p>
 <p>UserName: postgres</p>
 <p>Password: qwerty</p>
-<p>DBName: UsersBot</p>
+<p>DBName: cle</p>
 <p>SSLMode: disable</p>
+
+<h4>JSON response</h4>
+<p>
+{
+"ok": "true"<br>
+"result":{<br>
+        "message_id":14,
+        "from":{
+                "id": "5343435729,
+                "is_bot": true,
+                "first_name": "Poker_bot",
+                "username":"PokerClubYanaBot"
+        },
+        "chat":{
+                "id":5186974158,
+                "first_name":"Mikke",
+                "last_name":"Mi",
+                "type":"private"
+        },
+        "date":"12342022",
+        "text":""
+        
+
+   
+
+        
+}
+</p>
